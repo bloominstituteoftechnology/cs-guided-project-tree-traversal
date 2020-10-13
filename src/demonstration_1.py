@@ -4,7 +4,8 @@ You are given a binary tree.
 Write a function that can return the inorder traversal of node values.
 
 Example:
-Input: [3,null,1,5]
+Input:
+
    3
     \
      1
